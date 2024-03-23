@@ -1,4 +1,5 @@
 # aula02_bootcamp_JD24
+<<<<<<< HEAD
 
 # Aula 02: TypeError, Type Check, Type Conversion, try-except e if
 
@@ -545,3 +546,5 @@ print(f"{nome}, seu salário é R${salario:.2f} e seu bônus final é R${bonus_f
 ```
 
 ![imagem_04](./pics/4.png)
+=======
+>>>>>>> 58451f7e3ccc5311f5424d3715666dd9a587953d
